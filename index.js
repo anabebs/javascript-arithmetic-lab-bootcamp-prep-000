@@ -33,6 +33,6 @@ function makeInt(n){
 
 
 function preserveDecimal(n)
-let parsed= parseFloat(n)
-return (parsed)
+return parseFloat(n)
+
 }
